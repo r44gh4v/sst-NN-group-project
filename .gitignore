@@ -1,0 +1,22 @@
+# Virtual environments
+.venv/
+
+# Python caches
+__pycache__/
+*.py[cod]
+
+# Jupyter runtime artifacts
+.ipynb_checkpoints/
+*-checkpoint.ipynb
+.jupyter/
+.jupyter_ystore.db
+*ystore.db
+
+# OS / editor
+desktop.ini
+.vscode/
+
+# PyTorch model saves
+*.pth
+
+build_report.py

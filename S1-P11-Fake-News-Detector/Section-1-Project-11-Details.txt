@@ -1,0 +1,5 @@
+Fake News Detector
+
+Build a fake news classifier on the LIAR dataset. 
+Compare an MLP on hand-crafted text features vs. an LSTM on the article text. 
+Evaluate precision and recall, and examine examples the model gets wrong.

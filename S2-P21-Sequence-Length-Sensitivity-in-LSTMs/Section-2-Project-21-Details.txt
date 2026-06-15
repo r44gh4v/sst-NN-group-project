@@ -1,0 +1,5 @@
+Sequence Length Sensitivity in LSTMs
+
+Train an LSTM on sequences of length 10, 50, and 200. 
+Measure accuracy and training time. 
+Show how performance changes with sequence length.
